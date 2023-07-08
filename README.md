@@ -1,2 +1,2 @@
-# Data-Science-Tools-
-NumPy , Pandas , Matplotlib
+# Data-Science-Tools and Libraries :-
+Details on NumPy , Pandas , Matplotlib , Seaborn and Statistics .
